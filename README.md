@@ -1,4 +1,4 @@
 # Converters
 
-* **1.2-Convertidor audio a texto:** permite convertir en forma másiva archivos .mp3 a texto, utilizando speech_recognition
-* **3.1-ange-ocr:** OCR que permite convertir en forma másiva imágenes en formato .jpg, .tiff o .png a texto, utilizando Tesseract
+* **1.3_audio2text:** converts folder with .mp3 files to text, using speech_recognition
+* **3.2_image2text:** OCR to convert folder with images in .jpg, .tiff or .png format to text using Tesseract
