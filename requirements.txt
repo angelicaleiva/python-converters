@@ -1,0 +1,10 @@
+# Libraries for audio2text notebook
+speech_recognition==3.8.1
+pydub==0.25.1
+tqdm==4.62.3
+
+# Libraries for image2text notebook
+pytesseract==0.3.8
+numpy==1.21.2
+opencv-python==4.5.3.56
+
